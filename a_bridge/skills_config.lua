@@ -1,6 +1,5 @@
 BridgeSkills = {}
 
--- ============================================
 --   HOW TO ADD A SKILL:
 --
 --   BridgeSkills['your_skill_id'] = {
@@ -26,7 +25,7 @@ BridgeSkills = {}
 --           -- Example: TriggerEvent('myresource:skillUnlocked')
 --       end,
 --   }
--- ============================================
+--
 
 
 --EXAMPLE SKILLS (delete or edit these)
